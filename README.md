@@ -1,1 +1,1 @@
-# go-fintech-study
+# go-study
